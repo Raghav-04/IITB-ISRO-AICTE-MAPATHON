@@ -11,4 +11,5 @@ The data collected from Indian Space Research Organisation (ISRO) platforms have
 2. We have generated Different kind of layers Including Base data layer, Vector data Layer, and Raster Data Layer
 3. We have Extracted Data From Bhuvan-India geo-platform of ISRO
 4. We have build this map for Chandigarh, India
-https://user-images.githubusercontent.com/47795037/113393574-7c13c980-93b4-11eb-9372-aae7e26a5f47.png
+![alt text](https://user-images.githubusercontent.com/47795037/113393574-7c13c980-93b4-11eb-9372-aae7e26a5f47.png)
+
